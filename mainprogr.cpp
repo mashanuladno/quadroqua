@@ -35,7 +35,7 @@ int main(void)
     }
     else
     {
-        printf("invalid input. enter 0 or 1\n");
+        printf("Invalid input. enter 0 or 1\n");
     }      
     return 0;
 
